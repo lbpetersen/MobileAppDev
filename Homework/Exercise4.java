@@ -33,3 +33,8 @@ class Exercise4 {
 		return frabjuousFlag;
 	    }
 	}
+
+//true
+//true
+//ping!
+//pong!
